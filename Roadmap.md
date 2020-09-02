@@ -1,9 +1,12 @@
 # ROADMAP
+
 Roadmap and some info about CPE Blocks
+
 ## Library Status:
 Current Version of the Library and Engine
 - Version: 1.0.0
 - Engine: Snap! 6.0.1
+
 ## Block Amount:
 Current amount of blocks existance in CPE
 - 13 Motion Blocks
@@ -16,4 +19,5 @@ Current amount of blocks existance in CPE
 - 01 Variable Block
 - 28 List Blocks
 - 01 Gray Block
-- 169 Blocks in total
+
+169 Blocks in total
