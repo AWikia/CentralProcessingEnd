@@ -1,6 +1,7 @@
 # ROADMAP
 Roadmap and some info about CPE Blocks
 ## Library Status:
+Current Version of the Library and Engine
 - Version: 1.0.0
 - Engine: Snap! 6.0.1
 ## Block Amount:
