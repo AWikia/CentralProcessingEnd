@@ -13,11 +13,11 @@ Current amount of blocks existance in CPE
 - 18 Control Blocks
 - 27 Looks Blocks
 - 29 Sensing Blocks
-- 07 Sound Blocks
-- 70 Operator Blocks
+- 13 Sound Blocks
+- 72 Operator Blocks
 - 06 Pen Blocks
 - 01 Variable Block
-- 34 List Blocks
+- 36 List Blocks
 - 01 Gray Block
 
-210 Blocks in total
+220 Blocks in total
