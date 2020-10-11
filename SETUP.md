@@ -19,4 +19,4 @@ Version x.x.x of CPE Blocks. Contains everything in the past versions **ΣΥΝ**
 - 44 List Blocks
 - 01 Gray Block
 
-313 Blocks in total
+312 Blocks in total
