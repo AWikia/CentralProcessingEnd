@@ -4,7 +4,7 @@ Roadmap and some info about CPE Blocks
 
 ## Library Status:
 Current Version of the Library and Engine
-- Version: 4.0.1
+- Version: 4.0.2
 - Engine: Snap! 6.3
 - Available Languages:
   - English
@@ -20,7 +20,7 @@ Current amount of blocks existance in CPE
 - 92 Operator Blocks
 - 24 Pen Blocks
 - 10 Variable Blocks
-- 51 List Blocks
+- 52 List Blocks
 - 03 Gray Blocks
 
-369 Blocks in total
+370 Blocks in total
