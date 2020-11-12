@@ -5,7 +5,7 @@ CPE Blocks library for SNAP!
 - Snap 6.0 and Newer
 
 # Description
-Cousin project of MLS Blocks from BYOB 3.1
+Successor project of MLS Blocks from BYOB 3.1
 
 It allows you to explore blocks that Snap could include!
 
