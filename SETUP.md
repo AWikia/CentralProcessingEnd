@@ -16,7 +16,7 @@ Version x.x.x of CPE Blocks. Contains everything in the past versions **ΣΥΝ**
 - 92 Operator Blocks
 - 24 Pen Blocks
 - 10 Variable Blocks
-- 51 List Blocks
+- 52 List Blocks
 - 03 Gray Blocks
 
-369 Blocks in total
+370 Blocks in total
