@@ -30,4 +30,4 @@ See [Roadmap](Roadmap.md) for the list of current block amount included in CPE
 You can see the current latest version of CPE [here](https://snap.berkeley.edu/snap/snap.html#present:Username=hm100&ProjectName=CPE%20Blocks)
 
 # Contributions
-You're free to leave an issue if something does not work as expected on the library so as to fix them ASAP.
+You're free to leave an issue if something does not work as expected on the library so as to fix them ASAP. See also [out contributing guidelines]](CONTRIBUTING.md)
