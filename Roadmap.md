@@ -14,13 +14,13 @@ Current Version of the Library and Engine
 Current amount of blocks existance in CPE
 - 28 Motion Blocks
 - 42 Control Blocks
-- 38 Looks Blocks
+- 39 Looks Blocks
 - 56 Sensing Blocks
 - 28 Sound Blocks
-- 92 Operator Blocks
-- 24 Pen Blocks
+- 93 Operator Blocks
+- 25 Pen Blocks
 - 10 Variable Blocks
-- 52 List Blocks
+- 56 List Blocks
 - 03 Gray Blocks
 
-373 Blocks in total
+380 Blocks in total
