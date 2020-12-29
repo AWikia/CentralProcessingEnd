@@ -12,14 +12,14 @@ Current Version of the Library and Engine
 
 ## Block Amount:
 - 36 Motion Blocks
-- 51 Control Blocks
-- 48 Looks Blocks
-- 80 Sensing Blocks
+- 55 Control Blocks
+- 54 Looks Blocks
+- 84 Sensing Blocks
 - 31 Sound Blocks
-- 107 Operator Blocks
-- 38 Pen Blocks
-- 14 Variable Blocks
-- 79 List Blocks
+- 112 Operator Blocks
+- 40 Pen Blocks
+- 15 Variable Blocks
+- 81 List Blocks
 - 03 Gray Blocks
 
-486 Blocks in total
+510 Blocks in total
