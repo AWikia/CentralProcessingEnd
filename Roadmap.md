@@ -16,10 +16,10 @@ Current Version of the Library and Engine
 - 57 Looks Blocks
 - 85 Sensing Blocks
 - 32 Sound Blocks
-- 128 Operator Blocks
+- 129 Operator Blocks
 - 41 Pen Blocks
 - 15 Variable Blocks
 - 81 List Blocks
 - 03 Gray Blocks
 
-532 Blocks in total
+533 Blocks in total
