@@ -9,6 +9,7 @@ Current Version of the Library and Engine
 - Available Languages:
   - English
   - Ελληνικά (Greek)
+  - Deutsch (German) **--Partially--**
 
 ## Block Amount:
 - 36 Motion Blocks
