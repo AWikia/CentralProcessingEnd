@@ -27,7 +27,7 @@ This gives you a total of 169 blocks that will appear in the initial 1.0.0 CPE B
 See [Roadmap](Roadmap.md) for the list of current block amount included in CPE
 
 # Playtesting
-You can see the current latest version of CPE [here](https://snap.berkeley.edu/snap/snap.html#present:Username=hm100&ProjectName=CPE%20Blocks)
+You can see the current latest version of CPE [here](https://snap.berkeley.edu/snap/snap.html#present:Username=hm100&ProjectName=CPE%20Blocks). You can read our speedup guide [here](Speedup.md)
 
 # Contributions
 You're free to leave an issue if something does not work as expected on the library so as to fix them ASAP. See also [our contributing guidelines](CONTRIBUTING.md)
