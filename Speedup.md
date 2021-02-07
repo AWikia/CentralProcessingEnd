@@ -10,7 +10,7 @@ Note that you must rebuild your project from scratch instead of porting it your 
 Various releases (Such as the forthcoming 10.0 Release of CPE) can optimize code, speeding up the various existing CPE Blocks. Newer releases also contain more blocks compared to the past ones.
 
 ## Enable Live Coding
-If snap! is open, Shift-Click on the gear menu and enable the **Live Coding Support** this will be make block editor changes happen instantly if you decide to edit them and this will also speed-up various block while doing intensive things.
+If snap! is open, Shift-Click on the gear menu and enable the **Live Coding Support**, this will be make block editor changes happen instantly if you decide to edit them and will also speed-up various block while doing intensive things.
 
 ## Use Hyperblocks
 Enabling Hyperblocks (Enabled by default) will make things more enjoyable if you plan to work with list of lists as it allows to use lists in numerical inputs. It will also speed-up a minor amount of CPE blocks as well as adding new features to many of the existing CPE Blocks.
