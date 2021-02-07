@@ -1,8 +1,8 @@
-# Tips to speedup CPE Blocks
-Think your project goes slow? There're many tips to speed it up.
+# Tips to speedup your workflow
+Back on the days when MLS Blocks was started in late-2014 and finished in early-September 2020, you had the interface of Scratch 1.4 with BYOB Scratch Mod (With two added control blocks) and the project that gave the blocks. Unfortunately, we couldn't make too many optimizations to this project and thus several blocks and projects weren't suitable with the MLS Blocks ecosystem it existed. Below there're ways to speed up projects that originated from the MLS Blocks or the newer, more-minded CPE Blocks:
 
 ## Move your project to CPE Blocks
-If you have your project on the outdated BYOB-based MLS Blocks, its about time to move your project to the Snap!-based CPE Blocks. It will facilitate faster speeds and fewer slowdowns.
+If you have your project on the outdated BYOB-based MLS Blocks, its about time to move your project to the Snap!-based CPE Blocks. It will facilitate faster speeds and up to fewer or no slowdowns on many block combinations
 
 Note that you must rebuild your project from scratch instead of porting it your MLS Blocks-powered project to Snap! as much of the code is incompatible. This can be tedius for large projects but this is the only way to make your old project CPE Blocks-powered. Note that many blocks have been merged into one block or renamed.
 
