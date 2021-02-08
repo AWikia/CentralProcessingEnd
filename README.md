@@ -1,3 +1,4 @@
+![CPE Blcocks](https://cdn.discordapp.com/attachments/501041384447410176/808378173174972436/CPE_Blocks_New_Logo.png) 
 # CentralProcessingEnd
 CPE Blocks library for SNAP!
 
