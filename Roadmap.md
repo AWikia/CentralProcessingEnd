@@ -4,7 +4,7 @@ Roadmap and some info about CPE Blocks
 
 ## Library Status:
 Current Version of the Library and Engine
-- Version: 10.0.1
+- Version: 10.0.2
 - Engine: Snap! 6.3
 - Available Languages:
   - English
@@ -13,9 +13,9 @@ Current Version of the Library and Engine
 
 ## Block Amount:
 - 38 Motion Blocks
-- 57 Control Blocks
+- 58 Control Blocks
 - 62 Looks Blocks
-- 95 Sensing Blocks
+- 96 Sensing Blocks
 - 36 Sound Blocks
 - 153 Operator Blocks
 - 48 Pen Blocks
@@ -23,4 +23,4 @@ Current Version of the Library and Engine
 - 93 List Blocks
 - 04 Gray Blocks
 
-600 Blocks in total
+602 Blocks in total
