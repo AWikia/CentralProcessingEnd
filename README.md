@@ -26,6 +26,8 @@ This gives you a total of 169 blocks that will appear in the initial 1.0.0 CPE B
 
 # Codenames
 Each CPE Blocks Major Version has its own codename and is:
+
+
 |  Version   | Codename         |
 |  -------   | --------         |
 | Version 1  | Alpha            |
