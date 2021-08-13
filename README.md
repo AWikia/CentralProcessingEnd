@@ -3,7 +3,7 @@
 CPE Blocks library for SNAP!
 
 # Requirements
-- Snap 6.0 and Newer
+- Snap 7.0 and Newer with JavaScript extensions enabled
 
 # Description
 Successor project of MLS Blocks from BYOB 3.1
