@@ -15,7 +15,7 @@ Current Version of the Library and Engine
 - 38 Motion Blocks
 - 42 Control Blocks 
 - 66 Looks Blocks
-- 66 Sensing Blocks
+- 65 Sensing Blocks
 - 37 Sound Blocks
 - 60 Operator Blocks
 - 30 Pen Blocks
@@ -24,7 +24,7 @@ Current Version of the Library and Engine
 - 04 Gray Blocks
 - 18 Color Blocks
 - 20 Object Blocks
-- 21 Program Blocks
+- 22 Program Blocks
 - 92 String Blocks
 - 18 System Blocks
 
