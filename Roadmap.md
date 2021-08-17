@@ -17,7 +17,7 @@ Current Version of the Library and Engine
 - 66 Looks Blocks
 - 65 Sensing Blocks
 - 37 Sound Blocks
-- 60 Operator Blocks
+- 59 Operator Blocks
 - 30 Pen Blocks
 - 14 Variable Blocks
 - 94 List Blocks
@@ -25,7 +25,7 @@ Current Version of the Library and Engine
 - 18 Color Blocks
 - 20 Object Blocks
 - 22 Program Blocks
-- 92 String Blocks
+- 93 String Blocks
 - 18 System Blocks
 
 620 Blocks in total
