@@ -42,6 +42,7 @@ Each CPE Blocks Major Version has its own codename and is:
 | Version 10 | Birthday         |
 | Version 11 | Carnival         |
 | Version 12 | Coalblind        |
+| Version 13 | Enchanting       |
 
 
 # Current Status
