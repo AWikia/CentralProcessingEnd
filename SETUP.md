@@ -22,6 +22,6 @@ Version x.x.x of CPE Blocks. Contains everything in the past versions **ΣΥΝ**
 - 20 Object Blocks
 - 21 Program Blocks
 - 95 String Blocks
-- 18 System Blocks
+- 24 System Blocks
 
-629 Blocks in total
+635 Blocks in total
