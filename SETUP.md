@@ -11,7 +11,7 @@ Version x.x.x of CPE Blocks. Contains everything in the past versions **ΣΥΝ**
 - 38 Motion Blocks
 - 42 Control Blocks 
 - 68 Looks Blocks
-- 67 Sensing Blocks
+- 66 Sensing Blocks
 - 37 Sound Blocks
 - 59 Operator Blocks
 - 34 Pen Blocks
@@ -20,7 +20,7 @@ Version x.x.x of CPE Blocks. Contains everything in the past versions **ΣΥΝ**
 - 04 Gray Blocks
 - 18 Color Blocks
 - 20 Object Blocks
-- 21 Program Blocks
+- 22 Program Blocks
 - 95 String Blocks
 - 24 System Blocks
 
