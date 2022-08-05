@@ -10,7 +10,7 @@ Version x.x.x of CPE Blocks. Contains everything in the past versions **ΣΥΝ**
 # Total Block Amount
 - 38 Motion Blocks
 - 42 Control Blocks 
-- 68 Looks Blocks
+- 69 Looks Blocks
 - 66 Sensing Blocks
 - 37 Sound Blocks
 - 59 Operator Blocks
@@ -24,4 +24,4 @@ Version x.x.x of CPE Blocks. Contains everything in the past versions **ΣΥΝ**
 - 95 String Blocks
 - 24 System Blocks
 
-635 Blocks in total
+636 Blocks in total
