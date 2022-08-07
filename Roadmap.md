@@ -4,7 +4,7 @@ Roadmap and some info about CPE Blocks
 
 ## Library Status:
 Current Version of the Library and Engine
-- Version: 15.1.0
+- Version: 15.1.1
 - Engine: Snap! 8.0 (Can run in Snap! 7.0)
 - Available Languages:
   - English
