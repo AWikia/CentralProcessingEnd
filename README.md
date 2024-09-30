@@ -3,7 +3,7 @@
 CPE Blocks library for SNAP!
 
 # Requirements
-- Snap 7.0 and Newer with JavaScript extensions enabled
+- Snap 10.0 and Newer with JavaScript extensions enabled
 
 # Description
 Successor project of MLS Blocks from BYOB 3.1
@@ -46,6 +46,7 @@ Each CPE Blocks Major Version has its own codename and is:
 | Version 14 | Builder          |
 | Version 15 | Traveller        |
 | Version 16 | Typewriter       |
+| Version 17 | Colorizer        |
 
 # Current Status
 See [Roadmap](Roadmap.md) for the list of current block amount included in CPE
