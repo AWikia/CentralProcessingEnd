@@ -47,6 +47,9 @@ Each CPE Blocks Major Version has its own codename and is:
 | Version 15 | Traveller        |
 | Version 16 | Typewriter       |
 | Version 17 | Colorizer        |
+| Version 18 | Finalizer        |
+
+Versions 19 and beyond do not have any codename assigned
 
 # Current Status
 See [Roadmap](Roadmap.md) for the list of current block amount included in CPE
