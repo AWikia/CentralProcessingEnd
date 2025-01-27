@@ -48,8 +48,9 @@ Each CPE Blocks Major Version has its own codename and is:
 | Version 16 | Typewriter       |
 | Version 17 | Colorizer        |
 | Version 18 | Finalizer        |
+| Version 19 | Finalizer 2      |
 
-Versions 19 and beyond do not have any codename assigned
+Versions 19 and beyond do not have any new codename assigned and reuse the Version 18's codename but with a number afterwards for distinguishing them
 
 # Current Status
 See [Roadmap](Roadmap.md) for the list of current block amount included in CPE
