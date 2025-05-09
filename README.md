@@ -49,8 +49,9 @@ Each CPE Blocks Major Version has its own codename and is:
 | Version 17 | Colorizer        |
 | Version 18 | Finalizer        |
 | Version 19 | Finalizer 2      |
+| Version 20 | Milestone        |
 
-Versions 19 and beyond do not have any new codename assigned and reuse the Version 18's codename but with a number afterwards for distinguishing them
+Versions 19 and beyond do not have any new codename assigned and reuse the Version 18's codename but with a number afterwards for distinguishing them. Versions that are divided with 10 starting from 20 will however have the Milestone codename assigned instead of reusing the Finalizer ones. Susequent reuses of Version 20's codename will have a number afterwards.
 
 # Current Status
 See [Roadmap](Roadmap.md) for the list of current block amount included in CPE
